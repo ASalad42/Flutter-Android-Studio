@@ -12,6 +12,10 @@ Flutter consists of two important parts:
 - A Framework (UI Library based on widgets): A collection of reusable UI elements (buttons, text inputs, sliders, and so on) that you can personalize for your own needs.
 
 Android Studio:
+- official Integrated Development Environment (IDE) for Android app development.
+- Fast and Feature-rich Emulator
+- Perfectly Fitting to Android Devices
+
 
 Setup & installing:
 
