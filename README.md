@@ -27,6 +27,8 @@ Setup & installing:
 - install Android SDK Command-line Tools
 - https://stackoverflow.com/questions/60475481/flutter-doctor-error-android-sdkmanager-tool-not-found-windows
 - `flutter doctor --android-licenses`
+- `.\flutter doctor`
+- `.\flutter doctor --android-licenses`
 
 ![image](https://user-images.githubusercontent.com/104793540/223442728-b00e646d-3d3a-4c73-a25b-9ff33648f27a.png)
 
